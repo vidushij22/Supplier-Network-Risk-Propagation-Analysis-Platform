@@ -191,10 +191,3 @@ For any issues or questions:
 - Email notifications for alerts
 - Multi-user support with authentication
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-**Built with ❤️ for Blinkit Supply Chain Optimization**
